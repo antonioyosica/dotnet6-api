@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNpFlifRNywNVKmvP4G62JN4023S96Tjvdh8jpoWNYoDf18fuNbhHGG0puSkOFC8CrE0dT0+f0iuW++HL75REg==",
+  "success": true,
+  "projectFilePath": "/home/whoami/Projects/Web/ASP.NET/Lessons/dotnet6-api/dotnet6-api.csproj",
+  "expectedPackageFiles": [
+    "/home/whoami/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/whoami/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/whoami/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/whoami/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/whoami/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/whoami/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
